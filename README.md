@@ -1,6 +1,6 @@
 # Data Jobs Dashboard – Power BI Project
 
-![Data Jobs Dashboard](Data Jobs Dashboard Main Page.png)
+![Data Jobs Dashboard](Data%20Jobs%20Dashboard%20Main%20Page.png)  
 
 ## 📊 Overview
 The **Data Jobs Dashboard** is an interactive Power BI report...
