@@ -14,7 +14,8 @@ To provide real-time visibility into data job market trends, helping users:
 - Understand market dynamics and seasonal hiring patterns
 
 - Compare compensation across different data positions
-- 
+
+  
 ![Data Jobs Dashboard](Data%20Jobs%20Dashboard%20Main%20Page.png)  
 
 
