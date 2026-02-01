@@ -7,13 +7,14 @@ This is a real-time interactive dashboard that tracks data-related job market tr
 ### Core Purpose:
 To provide real-time visibility into data job market trends, helping users:
 
--Identify high-demand roles and skills
+- Identify high-demand roles and skills
 
--Make informed career decisions based on salary benchmarks
+- Make informed career decisions based on salary benchmarks
 
--Understand market dynamics and seasonal hiring patterns
+- Understand market dynamics and seasonal hiring patterns
 
--Compare compensation across different data positions
+- Compare compensation across different data positions
+- 
 ![Data Jobs Dashboard](Data%20Jobs%20Dashboard%20Main%20Page.png)  
 
 
