@@ -4,7 +4,7 @@
 ![Data Jobs Dashboard](Data%20Jobs%20Dashboard%20Main%20Page.png)  
 
 ## 📊 Overview
-The **Data Jobs Dashboard** is an interactive Power BI report...
+This is a real-time interactive dashboard that tracks data-related job market trends, salaries, and demand across various roles. It transforms raw job market data into actionable insights for job seekers, recruiters, career advisors, and industry analysts.
 
 ---
 
