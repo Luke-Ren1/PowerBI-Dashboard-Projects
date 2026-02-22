@@ -7,6 +7,8 @@ This is an interactive dashboard that tracks data-related job market trends, sal
   
 ![Data Jobs Dashboard](Data%20Jobs%20Dashboard%20Main%20Page.png)  
 
+![Data Jobs Dashboard](Job%20Drill%20Through%20Page.png)  
+
 
 ### Core Purpose:
 To provide real-time visibility into data job market trends, helping users:
