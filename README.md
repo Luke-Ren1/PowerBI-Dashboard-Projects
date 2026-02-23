@@ -34,7 +34,7 @@ To provide real-time visibility into data job market trends, helping users:
 ---
 
 ## 📁 Data Source
-The CSV data used for this dashboard is available here: [Download Excel File](https://drive.google.com/file/d/13QSPnNdqNMjZB-brOugQcj67zC9xcZD7/view?usp=sharing)
+The CSV data used for this dashboard is available here: [Download File](https://drive.google.com/file/d/13QSPnNdqNMjZB-brOugQcj67zC9xcZD7/view?usp=sharing)
 
 ---
 
