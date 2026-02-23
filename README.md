@@ -26,7 +26,7 @@ To provide real-time visibility into data job market trends, helping users:
 - **Job Title Filtering:** Select specific job titles to drill down into salary, demand, and location insights.
 - **Salary Insights:** Compare median yearly and hourly salaries across roles such as Data Scientist, Data Engineer, Machine Learning Engineer, and more.
 - **Job Trend Tracking:** Monitor job count trends over time (Jan–Nov 2024) to identify peak hiring periods.
-- **Geographic Distribution:** View job demand by region including North America, Asia, Europe, and others.
+- **Geographic Distribution:** View job demand by region, including North America, Asia, Europe, and others.
 - **Job Source Analysis:** Identify which platforms (LinkedIn, Indeed, ZipRecruiter, etc.) list the most opportunities.
 - **Work Condition Metrics:** Track remote work availability (WFH %), health insurance offerings, and degree requirements.
 - **Schedule Type Breakdown:** Analyze job listings by employment type (Full-time vs. Contractor).
@@ -44,6 +44,10 @@ The data used in this dashboard is sourced from...
 1. **Key Metrics Card:**
    - Median Yearly Salary
    - Median Hourly Salary
+   - Total Job Count
+   - Salary Star Rating
+2. **2024 Job Trend Line Chart**
+   - Monthly job counts from January to November 2024
 
 ---
 
