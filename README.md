@@ -46,6 +46,14 @@ The CSV data used for this dashboard is available here: [Download File](https://
    - Salary Star Rating
 2. **2024 Job Trend Line Chart**
    - Monthly job counts from January to November 2024
+3. **Salary vs. Hourly Median Bar Chart**
+   - Comparison across top data roles
+4. **Job Counts by Title**
+   - Breakdown of job postings per job title
+
+
+
+   
 
 ---
 
