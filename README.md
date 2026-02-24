@@ -53,6 +53,10 @@ The CSV data used for this dashboard is available here: [Download File](https://
 5. **Drill-Through Page**
    - Detailed yearly and hourly salary ranges
    - WFH and health insurance percentages
+   - Degree requirement insights
+   - Geographic distribution of jobs
+   - Job posting source
+   - Employment type distribution
 
 
    
@@ -60,8 +64,17 @@ The CSV data used for this dashboard is available here: [Download File](https://
 ---
 
 ## 🛠️ How to Use
-1. Download the `.pbix` file...
-2. Open it in **Power BI Desktop**...
+1. Download the .pbix file from this repository.
+
+2. Open it with Power BI Desktop.
+
+3. Use the “Select Job Title” slicer to filter the dashboard by role.
+
+4. Click on any bar or data point to drill through for more details.
+
+5. Navigate between the job dashboard main page and the drill through page using the drill through button.
+
+
 
 ---
 
