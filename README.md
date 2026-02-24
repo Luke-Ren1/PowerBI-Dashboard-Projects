@@ -50,7 +50,9 @@ The CSV data used for this dashboard is available here: [Download File](https://
    - Comparison across top data roles
 4. **Job Counts by Title**
    - Breakdown of job postings per job title
-
+5. **Drill-Through Page**
+   - Detailed yearly and hourly salary ranges
+   - WFH and health insurance percentages
 
 
    
